@@ -1,13 +1,14 @@
 # NLP Chat Bot for Wikipedia 
 
-Wiki QA Web Applicaiton that dynamically locates wikipedia sources and applies NLP to answer user questions
+Wiki QA Web Applicaiton that dynamically locates wikipedia sources and applies NLP to answer user questions. A QA system will assist in quickly locating information.
 
 **Deployment URL:** _https://cmpe256-q4uake3apq-uc.a.run.app_
 
 # Project Overview
-- Chat Bot wrapper
-- Wikipedia content locator
-- NLP question answering
+Question Answering (QA) system is a computer applicaiton that responds to inquiries in natural languages such as English.
+For instance, a user might inquire, “Who is Mark Zuckerberg?” In this situation, the Q&A system should respond with "Facebook Founder or CEO of Facebook".
+
+A QA system can be open domain or domain-specific. Based on wiki pages, we created a real-time open domain question answering system.
 
 # Project Architecture Diagram
 ![](https://github.com/coryroyce/wiki_based_nlp_chat_bot/blob/main/reference/High_Level_Architecture.png)
