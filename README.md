@@ -4,6 +4,9 @@ Wiki QA Web Applicaiton that dynamically locates wikipedia sources and applies N
 
 **Deployment URL:** _https://cmpe256-q4uake3apq-uc.a.run.app_
 
+**DEMO GIF:**
+
+
 # Project Overview
 Question Answering (QA) system is a computer applicaiton that responds to inquiries in natural languages such as English.
 For instance, a user might inquire, “Who is Mark Zuckerberg?” In this situation, the Q&A system should respond with "Facebook Founder or CEO of Facebook".
