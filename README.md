@@ -1,4 +1,4 @@
-# NLP Chat Bot for Wikipedia 
+# NLP QA System for Wikipedia 
 
 Wiki QA Web Applicaiton that dynamically locates wikipedia sources and applies NLP to answer user questions. A QA system will assist in quickly locating information.
 
