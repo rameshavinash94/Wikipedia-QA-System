@@ -6,6 +6,7 @@ Wiki QA Web Applicaiton that dynamically locates wikipedia sources and applies N
 
 **DEMO GIF:**
 
+![](https://raw.githubusercontent.com/rameshavinash94/Wiki_QA_System/master/reference/demo_wikiqa.gif)
 
 # Project Overview
 Question Answering (QA) system is a computer applicaiton that responds to inquiries in natural languages such as English.
